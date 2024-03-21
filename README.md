@@ -68,7 +68,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by: Dhivya Dharshini.B
  RegisterNumber:212223240031
- 
+ ```
  module dd(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -80,7 +80,7 @@ nor(y5,a,b);
 xor(y6,a,b);
 xnor(y7,a,b);
 endmodule
-
+```
  ![image](https://github.com/dhivyadharshini2006/study-of-basic-gates/assets/144979490/0d152253-ddaa-44ef-b62b-171da9cb431b)
  
 **Logic symbol & Truthtable:**
