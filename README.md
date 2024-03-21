@@ -83,13 +83,19 @@ endmodule
 
  ![image](https://github.com/dhivyadharshini2006/study-of-basic-gates/assets/144979490/0d152253-ddaa-44ef-b62b-171da9cb431b)
  
-**Logic symbol & Truthtable**
+**Logic symbol & Truthtable:**
+
+
 ![image](https://github.com/dhivyadharshini2006/study-of-basic-gates/assets/144979490/64e78574-117e-48bf-a865-4a1e3ce4a6fd)
 
-**RTL realization Output:** 
+**RTL realization Output:**
+
+
 ![Screenshot 2024-03-20 210031](https://github.com/dhivyadharshini2006/study-of-basic-gates/assets/144979490/97aeabdc-2ccf-4de6-a54c-d4210fa2bc04)
 
-**RTL**
+**RTL:**
+
+
 ![312897666-cc26cedd-393b-4338-8935-d6a79e532919](https://github.com/dhivyadharshini2006/study-of-basic-gates/assets/144979490/ca1885e3-e630-4dfb-b493-7f6fee961420)
 
 **Result:**
