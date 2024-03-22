@@ -93,7 +93,7 @@ endmodule
 
 ![Screenshot 2024-03-20 210031](https://github.com/dhivyadharshini2006/study-of-basic-gates/assets/144979490/97aeabdc-2ccf-4de6-a54c-d4210fa2bc04)
 
-**Timimg diagram:**
+**Timing diagram:**
 
 
 ![312897666-cc26cedd-393b-4338-8935-d6a79e532919](https://github.com/dhivyadharshini2006/study-of-basic-gates/assets/144979490/ca1885e3-e630-4dfb-b493-7f6fee961420)
